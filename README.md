@@ -51,4 +51,4 @@ OpenCore EFI
 |BaseSystem Verification| enabled |
 
 ## 截图
-![关于](./_assets/screenshot.png)
+![关于](./screenshot.png)
