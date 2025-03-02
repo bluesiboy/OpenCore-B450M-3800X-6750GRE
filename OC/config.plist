@@ -1569,7 +1569,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>agdpmod=pikera revpatch=sbvmm,cpuname -wegbeta vm_compressor=2</string>
+                    <string>agdpmod=pikera revpatch=sbvmm,cpuname alcid=3 -wegbeta vm_compressor=2</string>
                     <key>csr-active-config</key>
                     <data>ZwAAAA==</data>
                     <key>run-efi-updater</key>
